@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Workspace>
+	<Workspace_Title/>
+	<Workspace_Vertion>1.8.1</Workspace_Vertion>
+	<Workspace_Date>2021/05/05 19:22:13</Workspace_Date>
+	<Project>RP-1AH</Project>
+	<Display3D>
+		<RobotModelType>0</RobotModelType>
+	</Display3D>
+	<ScreenRect>
+		<Screen160>
+			<AdditionalInfo/>
+			<Left>-2</Left>
+			<Top>-3</Top>
+			<Right>601</Right>
+			<Bottom>526</Bottom>
+		</Screen160>
+	</ScreenRect>
+	<LastLayoutSelect>Layout</LastLayoutSelect>
+</Workspace>

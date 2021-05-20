@@ -1,0 +1,93 @@
+2021:05:05 21:49:10	:Syntax check Error
+	:Program	:PR1(Command:10)	:RP-1AH	:Robot	:100 MVR P1	:Syntax error
+	:Program	:PR1(Command:11)	:RP-1AH	:Robot	:110 MVR P2	:Syntax error
+	:Program	:PR1(Command:12)	:RP-1AH	:Robot	:120 MVR P3	:Syntax error
+	:Program	:PR1(Command:13)	:RP-1AH	:Robot	:130 MVR P4	:Syntax error
+2021:05:05 21:50:00	:Syntax check Error
+	:Program	:PR1(Command:10)	:RP-1AH	:Robot	:100 MVR P1	:Syntax error
+	:Program	:PR1(Command:11)	:RP-1AH	:Robot	:110 MVR P2	:Syntax error
+	:Program	:PR1(Command:12)	:RP-1AH	:Robot	:120 MVR P3	:Syntax error
+	:Program	:PR1(Command:13)	:RP-1AH	:Robot	:130 MVR P4	:Syntax error
+2021:05:05 21:50:20	:Syntax check Error
+	:Program	:PR1(Command:10)	:RP-1AH	:Robot	:100 MVR P1	:Syntax error
+	:Program	:PR1(Command:11)	:RP-1AH	:Robot	:110 MVR P2	:Syntax error
+	:Program	:PR1(Command:12)	:RP-1AH	:Robot	:120 MVR P3	:Syntax error
+	:Program	:PR1(Command:13)	:RP-1AH	:Robot	:130 MVR P4	:Syntax error
+2021:05:05 21:51:34	:Syntax check Error
+	:Program	:PR1(Command:10)	:RP-1AH	:Robot	:100 MVR P1, P2, P3, P4	:Syntax error
+2021:05:05 22:24:53	:Syntax check Error
+	:Program	:PR1(Command:16)	:RP-1AH	:Robot	:170 MVS STOP	:Syntax error
+2021:05:05 22:51:01	:Line# overlapped Error
+	:Program	:PR1(Command:1)	:RP-1AH	:Robot	:Servo ON	:There is not line#.
+	:Program	:PR1(Command:18)	:RP-1AH	:Robot	:Servo OFF	:There is not line#.
+2021:05:05 22:51:04	:Syntax check Error
+	:Program	:PR1(Command:1)	:RP-1AH	:Robot	:0 Servo ON	:Line No exceeds 32767
+	:Program	:PR1(Command:18)	:RP-1AH	:Robot	:0 Servo OFF	:Line No exceeds 32767
+2021:05:05 22:51:21	:Line# overlapped Error
+	:Program	:PR1(Command:2)	:RP-1AH	:Robot	:10 OVRD 10	:The line# is overlapped.
+2021:05:05 22:54:53	:Line# overlapped Error
+	:Program	:PR1(Command:1)	:RP-1AH	:Robot	:Servo ON	:There is not line#.
+2021:05:05 22:54:54	:Syntax check Error
+	:Program	:PR1(Command:1)	:RP-1AH	:Robot	:0 Servo ON	:Line No exceeds 32767
+2021:05:05 23:01:04	:Line# overlapped Error
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	:#asdaf	:There is not line#.
+2021:05:05 23:01:06	:Syntax check Error
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	:0 #asdaf	:Line No exceeds 32767
+2021:05:05 23:01:20	:Line# overlapped Error
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	:$ggggk	:There is not line#.
+2021:05:05 23:01:21	:Syntax check Error
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	:0 $ggggk	:Line No exceeds 32767
+2021:05:05 23:08:18	:Line# overlapped Error
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	: DLY 10	:There is not line#.
+2021:05:05 23:08:21	:Syntax check Error
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	:0 DLY 10	:Line No exceeds 32767
+2021:05:05 23:15:04	:Line# overlapped Error
+	:Program	:PR1(Command:1)	:RP-1AH	:Robot	:OVRD 10	:There is not line#.
+	:Program	:PR1(Command:2)	:RP-1AH	:Robot	:MVS P1 'kwadrat mvs	:There is not line#.
+	:Program	:PR1(Command:3)	:RP-1AH	:Robot	:MVS P2	:There is not line#.
+	:Program	:PR1(Command:4)	:RP-1AH	:Robot	:MVS P3	:There is not line#.
+	:Program	:PR1(Command:5)	:RP-1AH	:Robot	:MVS P4	:There is not line#.
+	:Program	:PR1(Command:6)	:RP-1AH	:Robot	:MVS P1 'kwadrat	:There is not line#.
+	:Program	:PR1(Command:7)	:RP-1AH	:Robot	:MOV P2'kwadrat mov	:There is not line#.
+	:Program	:PR1(Command:8)	:RP-1AH	:Robot	:MOV P3	:There is not line#.
+	:Program	:PR1(Command:9)	:RP-1AH	:Robot	:MOV P4	:There is not line#.
+	:Program	:PR1(Command:10)	:RP-1AH	:Robot	:MOV P1 'kwadrat	:There is not line#.
+	:Program	:PR1(Command:11)	:RP-1AH	:Robot	:MVR P1, P2, P3 'luk 1	:There is not line#.
+	:Program	:PR1(Command:12)	:RP-1AH	:Robot	:MVR P3, P4, P1 'luk 2	:There is not line#.
+	:Program	:PR1(Command:13)	:RP-1AH	:Robot	:MVC P5, P6, P7 'okrag maly	:There is not line#.
+	:Program	:PR1(Command:14)	:RP-1AH	:Robot	:MVR3 P5, P8, P10 's	:There is not line#.
+	:Program	:PR1(Command:15)	:RP-1AH	:Robot	:MVR3 P8, P7, P9 's	:There is not line#.
+	:Program	:PR1(Command:16)	:RP-1AH	:Robot	:MVS P11 'podnies pisak	:There is not line#.
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	:DLY 10 'opoznienie	:There is not line#.
+	:Program	:PR1(Command:19)	:RP-1AH	:Robot	:FOR i=1 TO 4 STEP 1	:There is not line#.
+	:Program	:PR1(Command:21)	:RP-1AH	:Robot	:END	:There is not line#.
+2021:05:05 23:15:06	:Syntax check Error
+	:Program	:PR1(Command:1)	:RP-1AH	:Robot	:0 OVRD 10	:Line No exceeds 32767
+	:Program	:PR1(Command:2)	:RP-1AH	:Robot	:0 MVS P1 'kwadrat mvs	:Line No exceeds 32767
+	:Program	:PR1(Command:3)	:RP-1AH	:Robot	:0 MVS P2	:Line No exceeds 32767
+	:Program	:PR1(Command:4)	:RP-1AH	:Robot	:0 MVS P3	:Line No exceeds 32767
+	:Program	:PR1(Command:5)	:RP-1AH	:Robot	:0 MVS P4	:Line No exceeds 32767
+	:Program	:PR1(Command:6)	:RP-1AH	:Robot	:0 MVS P1 'kwadrat	:Line No exceeds 32767
+	:Program	:PR1(Command:7)	:RP-1AH	:Robot	:0 MOV P2'kwadrat mov	:Line No exceeds 32767
+	:Program	:PR1(Command:8)	:RP-1AH	:Robot	:0 MOV P3	:Line No exceeds 32767
+	:Program	:PR1(Command:9)	:RP-1AH	:Robot	:0 MOV P4	:Line No exceeds 32767
+	:Program	:PR1(Command:10)	:RP-1AH	:Robot	:0 MOV P1 'kwadrat	:Line No exceeds 32767
+	:Program	:PR1(Command:11)	:RP-1AH	:Robot	:0 MVR P1, P2, P3 'luk 1	:Line No exceeds 32767
+	:Program	:PR1(Command:12)	:RP-1AH	:Robot	:0 MVR P3, P4, P1 'luk 2	:Line No exceeds 32767
+	:Program	:PR1(Command:13)	:RP-1AH	:Robot	:0 MVC P5, P6, P7 'okrag maly	:Line No exceeds 32767
+	:Program	:PR1(Command:14)	:RP-1AH	:Robot	:0 MVR3 P5, P8, P10 's	:Line No exceeds 32767
+	:Program	:PR1(Command:15)	:RP-1AH	:Robot	:0 MVR3 P8, P7, P9 's	:Line No exceeds 32767
+	:Program	:PR1(Command:16)	:RP-1AH	:Robot	:0 MVS P11 'podnies pisak	:Line No exceeds 32767
+	:Program	:PR1(Command:17)	:RP-1AH	:Robot	:0 DLY 10 'opoznienie	:Line No exceeds 32767
+	:Program	:PR1(Command:19)	:RP-1AH	:Robot	:0 FOR i=1 TO 4 STEP 1	:Line No exceeds 32767
+	:Program	:PR1(Command:21)	:RP-1AH	:Robot	:0 END	:Line No exceeds 32767
+2021:05:05 23:21:30	:Line# overlapped Error
+	:Program	:PR1(Command:22)	:RP-1AH	:Robot	:END	:There is not line#.
+2021:05:05 23:21:32	:Syntax check Error
+	:Program	:PR1(Command:22)	:RP-1AH	:Robot	:0 END	:Line No exceeds 32767
+2021:05:05 23:21:42	:Syntax check Error
+	:Program	:PR1(Command:2)	:RP-1AH	:Robot	:11 FOR i=1 TO 4 STEP 1	:FOR NEXT statements unmatch
+2021:05:05 23:21:54	:Syntax check Error
+	:Program	:PR1(Command:2)	:RP-1AH	:Robot	:11 FOR i=1 TO 4 STEP 1	:FOR NEXT statements unmatch
+2021:05:05 23:30:07	:Syntax check Error
+	:Program	:PR1(Command:1)	:RP-1AH	:Robot	:0 OVRD 50	:Line No exceeds 32767
